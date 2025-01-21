@@ -1,0 +1,14 @@
+Vamos contar até 10?
+Só sei contar até 5.
+Vamos contar até 21?
+Só sei contar até 10.
+Ontem eu caminhei 5 km no parque.
+Eu tenho 3 irmãos e 2 irmãs.
+Eu peguei o ônibus das 8:15 da manhã.
+No jogo de ontem, o placar final foi 3 a 1 para o time visitante.
+O livro que estou lendo tem 350 páginas.
+0101
+101
+0011
+123
+0123 
